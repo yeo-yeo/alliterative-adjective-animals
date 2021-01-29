@@ -1,6 +1,6 @@
 {
   "name": "alliterative-adjective-animals",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate a phrase with alliterative adjectives and animals",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,8 @@
   "author": "Gillian Yeomans",
   "license": "MIT",
   "dependencies": {
-    "adjectives": "^1.0.2",
-    "animals": "^0.0.3",
-    "pluralize": "^8.0.0"
+    "adjectives": "1.0.2",
+    "animals": "0.0.3",
+    "pluralize": "8.0.0"
   }
 }

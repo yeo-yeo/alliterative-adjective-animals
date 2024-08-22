@@ -3,7 +3,10 @@
   "version": "1.0.2",
   "description": "Generate a phrase with alliterative adjectives and animals",
   "main": "index.js",
-  "scripts": {
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yeo-yeo/alliterative-adjective-animals.git"
   },
   "author": "Gillian Yeomans",
   "license": "MIT",

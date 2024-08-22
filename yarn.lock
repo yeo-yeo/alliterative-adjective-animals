@@ -4,33 +4,28 @@
 
 adjectives@1.0.2:
   version "1.0.2"
-  resolved "https://registry.npmjs.org/adjectives/-/adjectives-1.0.2.tgz"
+  resolved "https://registry.yarnpkg.com/adjectives/-/adjectives-1.0.2.tgz#c2d510448338914d20b986630649ae75a04960c6"
   integrity sha512-gaoTLTymNfCmuCPsLSDcz/WWFBxNlAOoDzWt2fInQqQ2BTT57lG0RHzBujS0QkwbGw4lHgpkOmYcQ9rktKfBmw==
 
 animals@0.0.3:
   version "0.0.3"
-  resolved "https://registry.npmjs.org/animals/-/animals-0.0.3.tgz"
+  resolved "https://registry.yarnpkg.com/animals/-/animals-0.0.3.tgz#f59982705ae07b803ad7230c37d1e7b2de99af8d"
   integrity sha512-dng+h/BHEBDbShw/xCDnD/GSgFaQpKaFHTf7AmHnjJDz2Hey2tFT6f8ZbrJSLFZCt2hDqQl6QeAjFBK0UDcOiQ==
   dependencies:
     minimist "^0.2.0"
     unique-random "^0.1.1"
 
 minimist@^0.2.0:
-  version "0.2.1"
-  resolved "https://registry.npmjs.org/minimist/-/minimist-0.2.1.tgz"
-  integrity sha512-GY8fANSrTMfBVfInqJAY41QkOM+upUTytK1jZ0c8+3HdHrJxBJ3rF5i9moClXTE8uUSnUo8cAsCoxDXvSY4DHg==
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.2.4.tgz#0085d5501e29033748a2f2a4da0180142697a475"
+  integrity sha512-Pkrrm8NjyQ8yVt8Am9M+yUt74zE3iokhzbG1bFVNjLB92vwM71hf40RkEsryg98BujhVOncKm/C1xROxZ030LQ==
 
 pluralize@8.0.0:
   version "8.0.0"
-  resolved "https://registry.npmjs.org/pluralize/-/pluralize-8.0.0.tgz"
+  resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-8.0.0.tgz#1a6fa16a38d12a1901e0320fa017051c539ce3b1"
   integrity sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==
-
-typescript@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-5.2.2.tgz"
-  integrity sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w==
 
 unique-random@^0.1.1:
   version "0.1.1"
-  resolved "https://registry.npmjs.org/unique-random/-/unique-random-0.1.1.tgz"
-  integrity sha1-xMyqvtqrhTTg9U2vXxB0PuXGkq0= sha512-lwUnHNj3lGKxLWkt6Mv5ZDIFpA68Y3IBstzCmCPjyRRnL7MSFgBfOyU+35RuzgQ7yRAnRw9o25e28YqvpZfYug==
+  resolved "https://registry.yarnpkg.com/unique-random/-/unique-random-0.1.1.tgz#c4ccaabedaab8534e0f54daf5f10743ee5c692ad"
+  integrity sha512-lwUnHNj3lGKxLWkt6Mv5ZDIFpA68Y3IBstzCmCPjyRRnL7MSFgBfOyU+35RuzgQ7yRAnRw9o25e28YqvpZfYug==

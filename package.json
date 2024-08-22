@@ -1,6 +1,6 @@
 {
   "name": "alliterative-adjective-animals",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "type": "module",
   "description": "Generate a phrase with alliterative adjectives and animals",
   "main": "index.js",
